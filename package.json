@@ -1,5 +1,5 @@
 {
-  "name": "lino-tree",
+  "name": "lingo-nest",
   "version": "1.0.0",
   "scripts": {
     "dev": "node scripts/build.mjs",
