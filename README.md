@@ -9,7 +9,7 @@
 
 </div>
 
-![LingoNest Cover Image](https://i.imgur.com/YOUR_IMAGE_URL.png ) 
+
 <!-- ملاحظة: قومي برفع صورة غلاف للمشروع على موقع مثل imgur.com واستبدلي الرابط أعلاه -->
 
 LingoNest is a comprehensive e-learning platform built to provide engaging English courses for children. Developed using AI-assisted tools like **Cider Web App Builder**, the platform was then heavily customized to create a unique, branded, and feature-rich user experience. It allows parents to sign up, purchase courses, and monitor their children's progress, while kids can enjoy interactive quizzes, earn badges, and communicate directly with their teachers in a safe, moderated environment.
